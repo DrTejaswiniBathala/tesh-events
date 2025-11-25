@@ -383,12 +383,12 @@ body {
 
 /* Hero main heading */
 .hero-content h1 {
-  font-size: 2.5rem;   /* 👈 reduced from previous (was ~3rem+) */
+  font-size: 2.15rem;   /* 👈 reduced from previous (was ~3rem+) */
   line-height: 1.2;     /* tighter line spacing */
 }
 
 .hero-content h1 .highlight {
-  font-size: 2.5rem;    /* same size as first line */
+  font-size: 2.15rem;    /* same size as first line */
   white-space: nowrap;  /* keeps "Every Story" with the line */
 }
 
@@ -423,7 +423,7 @@ body {
 }
 
 .hero-card h2 {
-  margin: 0.1rem 0 0.25rem;
+  margin: 0.5rem 0 0.25rem;
   font-size: 1.5rem;
   color: var(--tesh-brown-dark);
 }

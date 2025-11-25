@@ -95,12 +95,16 @@ function App() {
               <span className="highlight"> Celebrations</span> for Every Story
             </h1>
             <p className="hero-subtitle">
-              TeSh Events is a Premium Personalised and Customised Event
-              Management Brand Founded and Led by{" "}
-              <strong>Miss Shravya Vani</strong>, International Events
-              Management – University of Greenwich, London. We design Elegant,
-              Emotion-filled Experiences in{" "}
-              <strong>Andhra Pradesh &amp; Telangana</strong> that truly reflect YOU.
+              Some occasions deserve more than planning —
+they deserve <strong>Elegance, Emotion, and a touch of Timeless Beauty</strong> .
+
+
+We shape each moment with <strong>refined Aesthetics, meticulous Detail,
+and a deep Understanding</strong> of what truly matters to you.
+
+From the First Concept to the Final Unveiling,
+every element is curated to reflect <strong>Grace, Warmth, and Elevated Style</strong> —
+so your Special day feels nothing less than EXTRAORDINARY.
             </p>
             <div className="hero-actions">
               <a href="#contact" className="btn primary">
@@ -156,16 +160,14 @@ function App() {
           <div className="about-grid">
             <div className="about-text">
               <p>
-                TeSh Events is a Personalised and Customised Event Management
-                Brand dedicated to turning your Milestones into meaningful
-                Memories. Every celebration is carefully curated to match your
+                We execute your event in such a manner that, Your Story becomes the Heart of the Design-
+Your Emotions guide the Experience and
+Your Vision transforms into a Flawless, Unforgettable Celebration. Here, every celebration is carefully curated to match your
                 Personality, Emotions, Culture, and Vision.
               </p>
               <p>
-                With a strong foundation in{" "}
-                <strong>International Events Management</strong> and exposure
-                from the <strong>University of Greenwich, London</strong>, Miss
-                Shravya Vani brings a global perspective to event design while
+                At TeSh Events, every celebration is crafted as a premium experience,
+where sophistication meets sentiment bringing a global perspective to event design while
                 understanding the Expectations, Sensitivities, and Traditions of
                 Indian families and Corporates.
               </p>
@@ -337,11 +339,11 @@ function App() {
                 Simple, Elegant and Budget-conscious.
               </p>
               <ul>
-                <li>Basic decor &amp; theme styling</li>
-                <li>Standard stage / backdrop</li>
-                <li>Basic lighting support</li>
-                <li>On-the-day coordination</li>
-                <li>Perfect for small gatherings</li>
+                <li>Basic Decor &amp; Theme Styling</li>
+                <li>Standard Stage / Backdrop</li>
+                <li>Basic Lighting Support</li>
+                <li>On-the-day Coordination</li>
+                <li>Perfect for Small Gatherings</li>
               </ul>
               <p className="package-note">
                 Ideal for intimate Birthdays, small Engagements and Home
@@ -355,8 +357,8 @@ function App() {
                 Our most Loved Personalised &amp; Customised package.
               </p>
               <ul>
-                <li>Concept-based Decor &amp; styling</li>
-                <li>Customised Backdrop &amp; photo corners</li>
+                <li>Concept-based Decor &amp; Styling</li>
+                <li>Customised Backdrop &amp; Photo Corners</li>
                 <li>Detailed Event Flow Planning</li>
                 <li>Vendor Coordination &amp; Supervision</li>
                 <li>Dedicated Event Coordinator on Ground</li>
@@ -373,11 +375,11 @@ function App() {
                 High-impact, Detail-rich and Experience driven.
               </p>
               <ul>
-                <li>Bespoke theme &amp; set design</li>
-                <li>High-end styling &amp; florals</li>
-                <li>Immersive entry &amp; lighting experiences</li>
-                <li>Curated artist / performer options</li>
-                <li>End-to-end event management</li>
+                <li>Bespoke Theme &amp; Set Design</li>
+                <li>High-end styling &amp; Florals</li>
+                <li>Immersive Entry &amp; Lighting Experiences</li>
+                <li>Curated Artist / Performer Options</li>
+                <li>End-to-end Event Management</li>
               </ul>
               <p className="package-note">
                 For those who want their Celebration to feel like a Curated Show
@@ -514,8 +516,8 @@ function App() {
                 Events, College &amp; Campus Events, NRI Functions and more.
               </p>
               <p className="contact-note">
-                You can also reach us directly via WhatsApp / Call ( 9985744913, 9110308773
-                  ) and our Instagram page tesh.events 
+                You can also reach us directly via WhatsApp / Call <strong>( 9985744913, 9110308773
+                  )</strong> and our Instagram page tesh.events
               </p>
             </div>
           </div>
