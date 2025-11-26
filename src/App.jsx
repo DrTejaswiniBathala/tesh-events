@@ -96,7 +96,7 @@ function App() {
             </h1>
             <p className="hero-subtitle">
               Some occasions deserve more than planning —
-they deserve <strong>Elegance, Emotion, and a touch of Timeless Beauty</strong> .
+they deserve <strong>Elegance, Emotion, and a touch of Timeless Beauty</strong>.
 
 
 We shape each moment with <strong>refined Aesthetics, meticulous Detail,
@@ -294,7 +294,7 @@ where sophistication meets sentiment bringing a global perspective to event desi
               <h3>NRI &amp; Destination Events</h3>
               <p>
                 Specially planned celebrations for families travelling from
-                Abroad or planning Destination-Style Events in India.
+                Abroad or planning Destination-Style Events in India and UK.
               </p>
               <ul>
                 <li>NRI Weddings &amp; Receptions</li>
@@ -455,8 +455,8 @@ where sophistication meets sentiment bringing a global perspective to event desi
                 Beautifully put together.
               </p>
               <p className="team-location">
-                Based in Kurnool &amp; Hyderabad | Serving families, campuses
-                and corporates across Andhra Pradesh &amp; Telangana.
+                ✨ With Ms. Shravya Vani heading our UK operations and Dr. Tejaswini Bathala 
+                overseeing our India wing, TeSh Events delivers excellence across borders.
               </p>
             </div>
           </div>
